@@ -1,5 +1,5 @@
 # ParallelFor
-A parallel version of classic for loop in Java
+A parallel version of classic for loop in Java inspired from C# .NET `Parallel.For();`
 
 ## How to use
 The classic for-loop in Java : 
